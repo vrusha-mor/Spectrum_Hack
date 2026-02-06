@@ -1,0 +1,46 @@
+name: spectrum_flutter
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  firebase_core: ^4.4.0
+  firebase_auth: ^6.1.4
+  firebase_analytics: ^12.1.1
+  google_fonts: ^6.3.2
+  google_sign_in: ^7.2.0
+  image_picker: ^1.2.1
+  fl_chart: ^0.69.0
+  font_awesome_flutter: ^10.9.1
+  google_mlkit_image_labeling: ^0.14.1
+  path_provider: ^2.1.5
+  path: ^1.9.1
+  flutter_animate: ^4.5.2
+  glassmorphism: ^3.0.0
+  animator: ^3.3.0
+  flutter_staggered_animations: ^1.1.1
+  flutter_local_notifications: ^19.5.0
+  timezone: ^0.10.1
+  mobile_scanner: ^7.1.4
+  http: ^1.6.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/models/1.tflite

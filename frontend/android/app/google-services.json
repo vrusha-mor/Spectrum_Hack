@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "642790847745",
+    "project_id": "spectrum-web-7435d",
+    "storage_bucket": "spectrum-web-7435d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642790847745:android:1359ca49f873167377d700",
+        "android_client_info": {
+          "package_name": "com.android.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642790847745-n3dco8d77cau5311dnnj446i0njf3keg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.app",
+            "certificate_hash": "1c97298f4874bfcb63f379c37ba92f9e0b49530b"
+          }
+        },
+        {
+          "client_id": "642790847745-7ein0pmfgeavkact77jt90l0n1uptjrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqPN3YOti60DnnMdsZUHZLl29p5ezYpRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642790847745-7ein0pmfgeavkact77jt90l0n1uptjrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
